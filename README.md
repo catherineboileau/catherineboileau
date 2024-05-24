@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @catherineboileau, a back-end developpe/teacher
+- 👋 Hi, I’m @catherineboileau, a back-end developper/teacher
 - 👀 I’m interested in puzzles, Star Wars, legos, reading and sports (mostly volleyball and waterskiing)
 - 🌱 I’m currently learning mobile application development
 - 💞️ I’m looking to collaborate on AoC, Java, web and mobile development
